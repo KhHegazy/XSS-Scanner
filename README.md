@@ -15,3 +15,10 @@
    --user-agent: custom user-agent string 
  
    -f or --payloads: additional
+
+_____Info_____
+
+You must download pytesseract
+
+
+pip install pytesseract
